@@ -1,2 +1,2 @@
 # android
-Android source code of SVA Demo APP Client
+Android source code of SVA Demo APP.
